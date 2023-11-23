@@ -1,4 +1,5 @@
 ![CNI Logo](logo.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjasonliny%2Fcni.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjasonliny%2Fcni?ref=badge_shield)
 
 ---
 
@@ -221,3 +222,7 @@ For any questions about CNI, please reach out via:
 ## Security
 
 If you have a _security_ issue to report, please do so privately to the email addresses listed in the [MAINTAINERS](MAINTAINERS) file.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjasonliny%2Fcni.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjasonliny%2Fcni?ref=badge_large)
